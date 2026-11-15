@@ -1,9 +1,8 @@
-
 # UniBudget
 
 A student expense tracker built with Flutter — track income and expenses in Bangladeshi Taka (৳), see where your money goes by category, and review your monthly spending at a glance.
 
-Built for CSE 464. This repository is the **frontend (Flutter app)**.
+This repository is the **frontend (Flutter app)**.
 
 > **Backend:** [Mehedisohel/Unibudget_backend](https://github.com/Mehedisohel/Unibudget_backend) — Django REST API with JWT authentication  
 > **Live API:** https://unibudget-backend-2.onrender.com
@@ -125,3 +124,8 @@ assets/
 
 - **Frontend (this repo):** https://github.com/Intesar360/Unibudget
 - **Backend:** https://github.com/Mehedisohel/Unibudget_backend
+
+## Contributors
+
+- **Intesar Hossain** — Frontend (Flutter app)
+- **Mohammad Mehedi Sohel** — Backend (Django REST API)
