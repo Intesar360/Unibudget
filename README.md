@@ -34,7 +34,7 @@ Login → Main shell with 4 tabs — **Home**, **History**, **Insights**, **Sett
 | State | `ChangeNotifier` — `TransactionStore` is the single source of truth for all totals |
 | Networking | `http` package |
 | Backend | Django + Django REST Framework, Simple JWT — [see backend repo](https://github.com/Mehedisohel/Unibudget_backend) |
-| Database (backend) | PostgreSQL |
+| Database (backend) | SQLite |
 
 ## Backend
 
