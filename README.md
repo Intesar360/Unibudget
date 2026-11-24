@@ -48,7 +48,7 @@ This app does not work standalone for real accounts — it talks to the UniBudge
 The API base URL is set in one place — `lib/services/api_service.dart`:
 
 ```dart
-const String apiBaseUrl = 'http://192.168.0.103:8000';
+const String apiBaseUrl = 'https://unibudget-backend-2.onrender.com';
 ```
 
 Change it to match how you are running the backend:
