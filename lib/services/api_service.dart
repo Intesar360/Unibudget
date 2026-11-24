@@ -55,7 +55,7 @@ import '../repositories/transaction_repository.dart';
 /// (payment_method has choices). So toJson for the API is
 /// built here by hand, and fromJson results are mapped
 /// back to display strings for the UI.
-const String apiBaseUrl = 'http://192.168.0.103:8000';
+const String apiBaseUrl = 'https://unibudget-backend-2.onrender.com';
 
 class ApiException implements Exception {
   final String message;
